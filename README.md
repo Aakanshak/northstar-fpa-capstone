@@ -2,6 +2,12 @@
 
 Portfolio-grade FP&A capstone for Corporate Finance, FP&A, and Strategic Finance roles. The project is deliberately **Excel/PowerPoint-native**: Python generates realistic source data and constructs the files, while the analysis, scenarios, three statements, KPIs, and sensitivities remain live Excel formulas.
 
+## Live application
+
+**Live project:** https://aakanshak.github.io/northstar-fpa-capstone/
+
+**GitHub repository:** https://github.com/Aakanshak/northstar-fpa-capstone
+
 ## Executive findings
 
 - Q3 revenue missed budget by **$437K**, driven by new-logo volume and close timing rather than broad pricing pressure.
