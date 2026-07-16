@@ -1,0 +1,469 @@
+month,department,role,start_date,fully_loaded_annual_cost,headcount,monthly_cost
+2024-01,Sales,Account Executive,2024-01-01,185000,32,493333.33
+2024-01,Sales,Sales Development Rep,2024-01-01,105000,18,157500.0
+2024-01,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-01,Customer Success,Customer Success Manager,2024-01-01,125000,18,187500.0
+2024-01,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-01,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-01,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-01,Product & Engineering,Software Engineer,2024-01-01,175000,52,758333.33
+2024-01,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-01,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-01,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-01,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-01,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-02,Sales,Account Executive,2024-01-01,185000,32,493333.33
+2024-02,Sales,Sales Development Rep,2024-01-01,105000,18,157500.0
+2024-02,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-02,Customer Success,Customer Success Manager,2024-01-01,125000,18,187500.0
+2024-02,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-02,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-02,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-02,Product & Engineering,Software Engineer,2024-01-01,175000,52,758333.33
+2024-02,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-02,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-02,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-02,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-02,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-03,Sales,Account Executive,2024-01-01,185000,32,493333.33
+2024-03,Sales,Sales Development Rep,2024-01-01,105000,18,157500.0
+2024-03,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-03,Customer Success,Customer Success Manager,2024-01-01,125000,18,187500.0
+2024-03,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-03,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-03,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-03,Product & Engineering,Software Engineer,2024-01-01,175000,52,758333.33
+2024-03,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-03,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-03,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-03,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-03,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-04,Sales,Account Executive,2024-01-01,185000,33,508750.0
+2024-04,Sales,Sales Development Rep,2024-01-01,105000,18,157500.0
+2024-04,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-04,Customer Success,Customer Success Manager,2024-01-01,125000,18,187500.0
+2024-04,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-04,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-04,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-04,Product & Engineering,Software Engineer,2024-01-01,175000,53,772916.67
+2024-04,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-04,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-04,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-04,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-04,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-05,Sales,Account Executive,2024-01-01,185000,33,508750.0
+2024-05,Sales,Sales Development Rep,2024-01-01,105000,19,166250.0
+2024-05,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-05,Customer Success,Customer Success Manager,2024-01-01,125000,18,187500.0
+2024-05,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-05,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-05,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-05,Product & Engineering,Software Engineer,2024-01-01,175000,53,772916.67
+2024-05,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-05,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-05,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-05,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-05,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-06,Sales,Account Executive,2024-01-01,185000,33,508750.0
+2024-06,Sales,Sales Development Rep,2024-01-01,105000,19,166250.0
+2024-06,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-06,Customer Success,Customer Success Manager,2024-01-01,125000,18,187500.0
+2024-06,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-06,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-06,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-06,Product & Engineering,Software Engineer,2024-01-01,175000,54,787500.0
+2024-06,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-06,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-06,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-06,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-06,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-07,Sales,Account Executive,2024-01-01,185000,34,524166.67
+2024-07,Sales,Sales Development Rep,2024-01-01,105000,19,166250.0
+2024-07,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-07,Customer Success,Customer Success Manager,2024-01-01,125000,19,197916.67
+2024-07,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-07,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-07,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-07,Product & Engineering,Software Engineer,2024-01-01,175000,54,787500.0
+2024-07,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-07,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-07,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-07,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-07,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-08,Sales,Account Executive,2024-01-01,185000,34,524166.67
+2024-08,Sales,Sales Development Rep,2024-01-01,105000,19,166250.0
+2024-08,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-08,Customer Success,Customer Success Manager,2024-01-01,125000,19,197916.67
+2024-08,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-08,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-08,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-08,Product & Engineering,Software Engineer,2024-01-01,175000,54,787500.0
+2024-08,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-08,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-08,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-08,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-08,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-09,Sales,Account Executive,2024-01-01,185000,34,524166.67
+2024-09,Sales,Sales Development Rep,2024-01-01,105000,20,175000.0
+2024-09,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-09,Customer Success,Customer Success Manager,2024-01-01,125000,19,197916.67
+2024-09,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-09,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-09,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-09,Product & Engineering,Software Engineer,2024-01-01,175000,55,802083.33
+2024-09,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-09,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-09,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-09,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-09,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-10,Sales,Account Executive,2024-01-01,185000,35,539583.33
+2024-10,Sales,Sales Development Rep,2024-01-01,105000,20,175000.0
+2024-10,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-10,Customer Success,Customer Success Manager,2024-01-01,125000,19,197916.67
+2024-10,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-10,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-10,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-10,Product & Engineering,Software Engineer,2024-01-01,175000,55,802083.33
+2024-10,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-10,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-10,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-10,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-10,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-11,Sales,Account Executive,2024-01-01,185000,35,539583.33
+2024-11,Sales,Sales Development Rep,2024-01-01,105000,20,175000.0
+2024-11,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-11,Customer Success,Customer Success Manager,2024-01-01,125000,19,197916.67
+2024-11,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-11,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-11,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-11,Product & Engineering,Software Engineer,2024-01-01,175000,56,816666.67
+2024-11,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-11,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-11,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-11,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-11,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2024-12,Sales,Account Executive,2024-01-01,185000,35,539583.33
+2024-12,Sales,Sales Development Rep,2024-01-01,105000,20,175000.0
+2024-12,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2024-12,Customer Success,Customer Success Manager,2024-01-01,125000,19,197916.67
+2024-12,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2024-12,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2024-12,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2024-12,Product & Engineering,Software Engineer,2024-01-01,175000,56,816666.67
+2024-12,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2024-12,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2024-12,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2024-12,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2024-12,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-01,Sales,Account Executive,2024-01-01,185000,36,555000.0
+2025-01,Sales,Sales Development Rep,2024-01-01,105000,21,183750.0
+2025-01,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-01,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2025-01,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-01,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-01,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-01,Product & Engineering,Software Engineer,2024-01-01,175000,57,831250.0
+2025-01,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-01,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-01,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-01,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-01,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-02,Sales,Account Executive,2024-01-01,185000,36,555000.0
+2025-02,Sales,Sales Development Rep,2024-01-01,105000,21,183750.0
+2025-02,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-02,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2025-02,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-02,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-02,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-02,Product & Engineering,Software Engineer,2024-01-01,175000,57,831250.0
+2025-02,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-02,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-02,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-02,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-02,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-03,Sales,Account Executive,2024-01-01,185000,36,555000.0
+2025-03,Sales,Sales Development Rep,2024-01-01,105000,21,183750.0
+2025-03,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-03,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2025-03,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-03,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-03,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-03,Product & Engineering,Software Engineer,2024-01-01,175000,57,831250.0
+2025-03,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-03,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-03,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-03,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-03,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-04,Sales,Account Executive,2024-01-01,185000,37,570416.67
+2025-04,Sales,Sales Development Rep,2024-01-01,105000,21,183750.0
+2025-04,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-04,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2025-04,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-04,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-04,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-04,Product & Engineering,Software Engineer,2024-01-01,175000,58,845833.33
+2025-04,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-04,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-04,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-04,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-04,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-05,Sales,Account Executive,2024-01-01,185000,37,570416.67
+2025-05,Sales,Sales Development Rep,2024-01-01,105000,22,192500.0
+2025-05,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-05,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2025-05,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-05,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-05,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-05,Product & Engineering,Software Engineer,2024-01-01,175000,58,845833.33
+2025-05,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-05,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-05,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-05,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-05,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-06,Sales,Account Executive,2024-01-01,185000,37,570416.67
+2025-06,Sales,Sales Development Rep,2024-01-01,105000,22,192500.0
+2025-06,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-06,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2025-06,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-06,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-06,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-06,Product & Engineering,Software Engineer,2024-01-01,175000,59,860416.67
+2025-06,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-06,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-06,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-06,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-06,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-07,Sales,Account Executive,2024-01-01,185000,38,585833.33
+2025-07,Sales,Sales Development Rep,2024-01-01,105000,22,192500.0
+2025-07,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-07,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2025-07,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-07,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-07,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-07,Product & Engineering,Software Engineer,2024-01-01,175000,59,860416.67
+2025-07,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-07,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-07,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-07,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-07,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-08,Sales,Account Executive,2024-01-01,185000,38,585833.33
+2025-08,Sales,Sales Development Rep,2024-01-01,105000,22,192500.0
+2025-08,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-08,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2025-08,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-08,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-08,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-08,Product & Engineering,Software Engineer,2024-01-01,175000,59,860416.67
+2025-08,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-08,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-08,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-08,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-08,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-09,Sales,Account Executive,2024-01-01,185000,38,585833.33
+2025-09,Sales,Sales Development Rep,2024-01-01,105000,23,201250.0
+2025-09,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-09,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2025-09,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-09,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-09,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-09,Product & Engineering,Software Engineer,2024-01-01,175000,60,875000.0
+2025-09,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-09,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-09,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-09,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-09,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-10,Sales,Account Executive,2024-01-01,185000,39,601250.0
+2025-10,Sales,Sales Development Rep,2024-01-01,105000,23,201250.0
+2025-10,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-10,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2025-10,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-10,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-10,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-10,Product & Engineering,Software Engineer,2024-01-01,175000,60,875000.0
+2025-10,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-10,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-10,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-10,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-10,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-11,Sales,Account Executive,2024-01-01,185000,39,601250.0
+2025-11,Sales,Sales Development Rep,2024-01-01,105000,23,201250.0
+2025-11,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-11,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2025-11,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-11,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-11,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-11,Product & Engineering,Software Engineer,2024-01-01,175000,61,889583.33
+2025-11,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-11,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-11,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-11,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-11,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2025-12,Sales,Account Executive,2024-01-01,185000,39,601250.0
+2025-12,Sales,Sales Development Rep,2024-01-01,105000,23,201250.0
+2025-12,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2025-12,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2025-12,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2025-12,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2025-12,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2025-12,Product & Engineering,Software Engineer,2024-01-01,175000,61,889583.33
+2025-12,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2025-12,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2025-12,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2025-12,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2025-12,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-01,Sales,Account Executive,2024-01-01,185000,40,616666.67
+2026-01,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-01,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-01,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-01,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-01,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-01,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-01,Product & Engineering,Software Engineer,2024-01-01,175000,62,904166.67
+2026-01,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-01,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-01,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-01,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-01,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-02,Sales,Account Executive,2024-01-01,185000,40,616666.67
+2026-02,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-02,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-02,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-02,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-02,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-02,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-02,Product & Engineering,Software Engineer,2024-01-01,175000,62,904166.67
+2026-02,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-02,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-02,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-02,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-02,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-03,Sales,Account Executive,2024-01-01,185000,40,616666.67
+2026-03,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-03,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-03,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-03,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-03,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-03,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-03,Product & Engineering,Software Engineer,2024-01-01,175000,62,904166.67
+2026-03,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-03,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-03,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-03,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-03,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-04,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-04,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-04,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-04,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-04,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-04,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-04,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-04,Product & Engineering,Software Engineer,2024-01-01,175000,63,918750.0
+2026-04,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-04,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-04,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-04,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-04,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-05,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-05,Sales,Sales Development Rep,2024-01-01,105000,25,218750.0
+2026-05,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-05,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-05,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-05,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-05,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-05,Product & Engineering,Software Engineer,2024-01-01,175000,63,918750.0
+2026-05,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-05,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-05,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-05,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-05,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-06,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-06,Sales,Sales Development Rep,2024-01-01,105000,25,218750.0
+2026-06,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-06,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-06,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-06,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-06,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-06,Product & Engineering,Software Engineer,2024-01-01,175000,64,933333.33
+2026-06,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-06,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-06,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-06,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-06,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-07,Sales,Account Executive,2024-01-01,185000,42,647500.0
+2026-07,Sales,Sales Development Rep,2024-01-01,105000,25,218750.0
+2026-07,Sales,Sales Leadership,2024-01-01,240000,7,140000.0
+2026-07,Customer Success,Customer Success Manager,2024-01-01,125000,23,239583.33
+2026-07,Customer Success,Implementation,2024-01-01,112000,10,93333.33
+2026-07,Marketing,Demand Generation,2024-01-01,145000,11,132916.67
+2026-07,Marketing,Content & Brand,2024-01-01,132000,8,88000.0
+2026-07,Product & Engineering,Software Engineer,2024-01-01,175000,64,933333.33
+2026-07,Product & Engineering,Product Manager,2024-01-01,165000,12,165000.0
+2026-07,Product & Engineering,Design & Research,2024-01-01,145000,9,108750.0
+2026-07,G&A,Finance & Accounting,2024-01-01,142000,10,118333.33
+2026-07,G&A,People & Legal,2024-01-01,150000,9,112500.0
+2026-07,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-08,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-08,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-08,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2026-08,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-08,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2026-08,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2026-08,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2026-08,Product & Engineering,Software Engineer,2024-01-01,175000,63,918750.0
+2026-08,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2026-08,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2026-08,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2026-08,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2026-08,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-09,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-09,Sales,Sales Development Rep,2024-01-01,105000,25,218750.0
+2026-09,Sales,Sales Leadership,2024-01-01,240000,6,120000.0
+2026-09,Customer Success,Customer Success Manager,2024-01-01,125000,22,229166.67
+2026-09,Customer Success,Implementation,2024-01-01,112000,9,84000.0
+2026-09,Marketing,Demand Generation,2024-01-01,145000,10,120833.33
+2026-09,Marketing,Content & Brand,2024-01-01,132000,7,77000.0
+2026-09,Product & Engineering,Software Engineer,2024-01-01,175000,64,933333.33
+2026-09,Product & Engineering,Product Manager,2024-01-01,165000,11,151250.0
+2026-09,Product & Engineering,Design & Research,2024-01-01,145000,8,96666.67
+2026-09,G&A,Finance & Accounting,2024-01-01,142000,9,106500.0
+2026-09,G&A,People & Legal,2024-01-01,150000,8,100000.0
+2026-09,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-10,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-10,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-10,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2026-10,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2026-10,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2026-10,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2026-10,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2026-10,Product & Engineering,Software Engineer,2024-01-01,175000,63,918750.0
+2026-10,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2026-10,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2026-10,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2026-10,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2026-10,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-11,Sales,Account Executive,2024-01-01,185000,41,632083.33
+2026-11,Sales,Sales Development Rep,2024-01-01,105000,24,210000.0
+2026-11,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2026-11,Customer Success,Customer Success Manager,2024-01-01,125000,21,218750.0
+2026-11,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2026-11,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2026-11,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2026-11,Product & Engineering,Software Engineer,2024-01-01,175000,64,933333.33
+2026-11,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2026-11,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2026-11,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2026-11,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2026-11,G&A,IT & Facilities,2024-01-01,125000,5,52083.33
+2026-12,Sales,Account Executive,2024-01-01,185000,40,616666.67
+2026-12,Sales,Sales Development Rep,2024-01-01,105000,23,201250.0
+2026-12,Sales,Sales Leadership,2024-01-01,240000,5,100000.0
+2026-12,Customer Success,Customer Success Manager,2024-01-01,125000,20,208333.33
+2026-12,Customer Success,Implementation,2024-01-01,112000,8,74666.67
+2026-12,Marketing,Demand Generation,2024-01-01,145000,9,108750.0
+2026-12,Marketing,Content & Brand,2024-01-01,132000,6,66000.0
+2026-12,Product & Engineering,Software Engineer,2024-01-01,175000,63,918750.0
+2026-12,Product & Engineering,Product Manager,2024-01-01,165000,10,137500.0
+2026-12,Product & Engineering,Design & Research,2024-01-01,145000,7,84583.33
+2026-12,G&A,Finance & Accounting,2024-01-01,142000,8,94666.67
+2026-12,G&A,People & Legal,2024-01-01,150000,7,87500.0
+2026-12,G&A,IT & Facilities,2024-01-01,125000,5,52083.33

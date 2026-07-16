@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+tmp/
+~$*.xlsx
+~$*.pptx
+.DS_Store
